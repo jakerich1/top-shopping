@@ -1,0 +1,104 @@
+.item-page{
+    background-position: 70% 50%; 
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 3em;
+
+    .shop-box{
+        display: flex;
+        padding: 1em;
+        background: white;
+
+        .image{
+            flex: 1;
+
+            img{
+                display: block;
+                width: 100%;
+                height: auto;
+            }
+        }
+
+        .details{
+            flex: 1;    
+            padding: 1em;
+            
+            h1{
+                font-weight: 500;
+                font-size: 72px;
+                margin-bottom: 0;
+            }
+
+            .item-detail{
+                font-weight: 200;
+                font-size: 21px;
+                margin-bottom: 8px;
+            }
+
+            p{
+                font-weight: 200;
+                font-size: 36px;
+                margin-bottom: 8px;
+            }
+
+            button{
+                cursor: pointer;
+                padding: 1em;
+                border: none;
+                background: #ffaf8a;
+                transition: all 0.15s ease-in-out;
+
+                &:hover{
+                    filter: brightness(0.9);
+                }
+            }
+
+            .quantity{
+                display: flex;
+                margin-bottom: 8px;
+
+                .quant-btn{
+                    display: flex;
+                    align-items: center;
+                    justify-content: center;
+                    padding: 0.5em;
+
+                    svg{
+                        stroke-width: 0.7px;
+                        height: 35px;
+                    }
+                }
+
+                .quant-amount{
+                    display: flex;
+                    justify-content: center;
+                    align-items: center;
+                    background: rgb(236, 236, 236);
+                    padding: 1em 1.5em;
+                }
+            }
+
+            a{
+                text-decoration: none;
+            }
+
+            .outline{
+                display: flex;
+                align-items: center;
+                padding: 0.5em 0.25em;
+                background: none;
+                border: 1px solid #ffaf8a;
+
+                &:hover{
+                    background: #ffaf8a;
+                    
+                }
+
+                svg{
+                    stroke-width: 0.75px;
+                    height: 30px;
+                }
+            }
+        }
+    }
+}
