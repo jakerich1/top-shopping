@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/top-shopping/static/css/main.f681b970.chunk.css",
+    "main.js": "/top-shopping/static/js/main.22dc0f50.chunk.js",
+    "main.js.map": "/top-shopping/static/js/main.22dc0f50.chunk.js.map",
+    "runtime-main.js": "/top-shopping/static/js/runtime-main.d34e67f7.js",
+    "runtime-main.js.map": "/top-shopping/static/js/runtime-main.d34e67f7.js.map",
+    "static/js/2.468c7b58.chunk.js": "/top-shopping/static/js/2.468c7b58.chunk.js",
+    "static/js/2.468c7b58.chunk.js.map": "/top-shopping/static/js/2.468c7b58.chunk.js.map",
+    "static/js/3.09a51ef0.chunk.js": "/top-shopping/static/js/3.09a51ef0.chunk.js",
+    "static/js/3.09a51ef0.chunk.js.map": "/top-shopping/static/js/3.09a51ef0.chunk.js.map",
+    "index.html": "/top-shopping/index.html",
+    "static/css/main.f681b970.chunk.css.map": "/top-shopping/static/css/main.f681b970.chunk.css.map",
+    "static/js/2.468c7b58.chunk.js.LICENSE.txt": "/top-shopping/static/js/2.468c7b58.chunk.js.LICENSE.txt",
+    "static/media/bg.6befa67f.jpg": "/top-shopping/static/media/bg.6befa67f.jpg",
+    "static/media/hat.f310bc3c.png": "/top-shopping/static/media/hat.f310bc3c.png",
+    "static/media/spacex3.b1d4724a.jpg": "/top-shopping/static/media/spacex3.b1d4724a.jpg",
+    "static/media/spacexbg.903937c2.jpg": "/top-shopping/static/media/spacexbg.903937c2.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d34e67f7.js",
+    "static/js/2.468c7b58.chunk.js",
+    "static/css/main.f681b970.chunk.css",
+    "static/js/main.22dc0f50.chunk.js"
+  ]
+}
